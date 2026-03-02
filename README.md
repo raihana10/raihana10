@@ -1,10 +1,8 @@
-# 👩‍💻 About Me
+<h1 align="center">Welcome , I'm Raihana Mohito</h1>
 
-<h2 align="center">Welcome , I'm Raihana Mohito</h2>
-
-<h3 align="center">
+<h2 align="center">
    Future Data Engineer | Data Enthusiast | Future Software Engineer
-</h3>
+</h2>
 
 <p align="center">
 I build systems. I analyze data. I design solutions.
@@ -12,9 +10,13 @@ I build systems. I analyze data. I design solutions.
 
 ---
 
+# 👩‍💻 About Me
+
+
+
 Currently working on **ENSA Tetouan Academy** — a full-stack platform dedicated to empowering ENSA Tetouan students with hard and soft skills.
 
----
+
 
 ## 🎯 Focus Areas
 - Data Engineering  
@@ -22,14 +24,14 @@ Currently working on **ENSA Tetouan Academy** — a full-stack platform dedicate
 - Software Engineering  
 - Microservices & DevOps  
 
----
+
 
 ## 🤝 Collaboration & Growth
 - Open to collaborate on **Data Engineering projects**
 - Seeking mentorship and growth in **Data Engineering & AI**
 - Eager to grow through real-world challenges
 
----
+
 
 ## 🌍 Beyond Tech
 I'm deeply involved in community and charity initiatives — because impact matters.
