@@ -2,11 +2,13 @@
   <img src="https://raw.githubusercontent.com/raihana10/raihana10/main/assets/header.svg" alt="Raihana Mohito — Data, AI, Full-Stack, DevOps" width="100%"/>
 </p>
 
-<h3 align="center"><i>Data, with discipline and a touch of elegance.</i></h3>
+<p align="center"><i>“Data, with discipline and a touch of elegance.”</i></p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raihana10/raihana10/main/assets/divider.svg" alt="" width="70%"/>
+</p>
 
-## ✦ About me
+## ❦ A little about me
 
 I'm a final-year computer engineering student at **ENSA Tétouan**, drawn to the moment when raw data stops being noise and starts making decisions.
 
@@ -14,16 +16,46 @@ I love problems where a model has to be **trusted, not just accurate**: rare eve
 
 Outside the code, I lead teams, organize charity projects, and train regularly. Sport taught me discipline; community work taught me that **impact matters more than applause**.
 
-## ✦ Selected work
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raihana10/raihana10/main/assets/divider.svg" alt="" width="70%"/>
+</p>
 
-- **AURORAS**: predicts geomagnetic storms 6 hours ahead. A team project built on 43,207 hours of real NASA data, 12 model/rebalancing combinations compared, and a decision threshold tuned to the cost of a missed storm: **98.7% of storms detected** (PR-AUC 0.77). Served through FastAPI and Streamlit, containerized with Docker Compose.
-- **Rawabet**: an AI-powered real estate CRM. LLMs for lead scoring and contract risk analysis, a RAG pipeline on PostgreSQL/pgvector, and 7 n8n automation workflows.
-- **[SGITU](https://github.com/raihana10/SGITU-Microservices-Abonnements)**: urban transport platform built as 10 microservices (Spring Boot, Kafka, JWT), monitored with Prometheus & Grafana and shipped through a GitHub Actions CI/CD pipeline.
-- **ChriOnline**: a secure client-server e-commerce app in Java: TLS 1.3, JWT, 2FA, AES-256-GCM encryption, replay and brute-force protection.
+## ❦ Selected work
 
-## ✦ Toolbox
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌌 AURORAS</h3>
+      <i>Listening to the sky, six hours ahead.</i>
+      <p>Predicts geomagnetic storms 6 hours ahead. A team project built on 43,207 hours of real NASA data, 12 model/rebalancing combinations compared, and a decision threshold tuned to the cost of a missed storm: <b>98.7% of storms detected</b> (PR-AUC 0.77). Served through FastAPI and Streamlit, containerized with Docker Compose.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏡 Rawabet</h3>
+      <i>Where every lead finds its home.</i>
+      <p>An AI-powered real estate CRM. LLMs for lead scoring and contract risk analysis, a RAG pipeline on PostgreSQL/pgvector, and 7 n8n automation workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚋 <a href="https://github.com/raihana10/SGITU-Microservices-Abonnements">SGITU</a></h3>
+      <i>A city in motion, one microservice at a time.</i>
+      <p>Urban transport platform built as 10 microservices (Spring Boot, Kafka, JWT), monitored with Prometheus &amp; Grafana and shipped through a GitHub Actions CI/CD pipeline.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 ChriOnline</h3>
+      <i>Shopping, sealed with care.</i>
+      <p>A secure client-server e-commerce app in Java: TLS 1.3, JWT, 2FA, AES-256-GCM encryption, replay and brute-force protection.</p>
+    </td>
+  </tr>
+</table>
 
-**Data, AI & Automation**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raihana10/raihana10/main/assets/divider.svg" alt="" width="70%"/>
+</p>
+
+## ❦ My toolbox
+
+**✧ Data, AI & Automation**
 
 ![Python](https://img.shields.io/badge/Python-210100?style=flat-square&logo=python&logoColor=FECE79)
 ![Pandas](https://img.shields.io/badge/Pandas-210100?style=flat-square&logo=pandas&logoColor=FECE79)
@@ -42,7 +74,7 @@ Outside the code, I lead teams, organize charity projects, and train regularly. 
 ![Webhooks](https://img.shields.io/badge/Webhooks-210100?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power_BI-210100?style=flat-square&logo=powerbi&logoColor=FECE79)
 
-**Development**
+**✧ Development**
 
 ![Java](https://img.shields.io/badge/Java-210100?style=flat-square&logo=openjdk&logoColor=FECE79)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-210100?style=flat-square&logo=springboot&logoColor=FECE79)
@@ -65,7 +97,7 @@ Outside the code, I lead teams, organize charity projects, and train regularly. 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-210100?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-210100?style=flat-square)
 
-**Security**
+**✧ Security**
 
 ![TLS 1.3](https://img.shields.io/badge/TLS_1.3-210100?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-210100?style=flat-square&logo=jsonwebtokens&logoColor=FECE79)
@@ -73,7 +105,7 @@ Outside the code, I lead teams, organize charity projects, and train regularly. 
 ![BCrypt](https://img.shields.io/badge/BCrypt-210100?style=flat-square)
 ![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-210100?style=flat-square)
 
-**Databases**
+**✧ Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-210100?style=flat-square&logo=postgresql&logoColor=FECE79)
 ![PostGIS](https://img.shields.io/badge/PostGIS-210100?style=flat-square)
@@ -83,7 +115,7 @@ Outside the code, I lead teams, organize charity projects, and train regularly. 
 ![MongoDB](https://img.shields.io/badge/MongoDB-210100?style=flat-square&logo=mongodb&logoColor=FECE79)
 ![SQLite](https://img.shields.io/badge/SQLite-210100?style=flat-square&logo=sqlite&logoColor=FECE79)
 
-**DevOps & Tools**
+**✧ DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-210100?style=flat-square&logo=git&logoColor=FECE79)
 ![GitHub](https://img.shields.io/badge/GitHub-210100?style=flat-square&logo=github&logoColor=FECE79)
@@ -99,23 +131,35 @@ Outside the code, I lead teams, organize charity projects, and train regularly. 
 ![UML](https://img.shields.io/badge/UML-210100?style=flat-square)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-210100?style=flat-square)
 
-## ✦ Beyond the code
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raihana10/raihana10/main/assets/divider.svg" alt="" width="70%"/>
+</p>
+
+## ❦ Beyond the code
 
 - 🩸 Led the **11th annual blood donation campaign** at ENSA Tétouan: 100+ volunteers, 170+ donations in two days.
 - 🤝 Member of the steering committee of the **8th ENSA Tétouan Companies Forum**.
 - 🏃‍♀️ Sport keeps me disciplined, focused and energized.
 
-## ✦ Now
+## ❦ Right now
 
-- Looking for a **6-month end-of-studies internship (PFE)** in Data & AI.
-- Exploring new concepts and constantly sharpening my data skills, one project at a time.
-
-## ✦ Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raihana_Mohito-8C0902?style=flat-square&logo=linkedin&logoColor=FECE79)](https://www.linkedin.com/in/raihana-mohito-723599331)
+- 🎠 Looking for a **6-month end-of-studies internship (PFE)** in Data & AI.
+- 🌹 Exploring new concepts and constantly sharpening my data skills, one project at a time.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raihana10&show_icons=true&hide_border=false&count_private=false&bg_color=270205&title_color=E6A341&text_color=FECE79&icon_color=B14A36&border_color=8C0902" alt="GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/raihana10/raihana10/main/assets/divider.svg" alt="" width="70%"/>
 </p>
 
-<h4 align="center"><i>Always learning. Always improving.</i></h4>
+<h2 align="center">❦ Let's connect ❦</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raihana-mohito-723599331"><img src="https://img.shields.io/badge/LinkedIn-Raihana_Mohito-8C0902?style=for-the-badge&logo=linkedin&logoColor=FECE79" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raihana10&background=210100&border=E6A341&stroke=8C0902&ring=E6A341&fire=B14A36&currStreakNum=FECE79&sideNums=FECE79&currStreakLabel=E6A341&sideLabels=E6A341&dates=B14A36" alt="GitHub streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raihana10/raihana10/main/assets/footer.svg" alt="Always learning. Always improving." width="100%"/>
+</p>
