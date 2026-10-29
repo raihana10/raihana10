@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Raihana Mohito — Data, AI, Full-Stack, DevOps">
+  <defs>
+    <radialGradient id="bg" cx="25%" cy="35%" r="85%">
+      <stop offset="0" stop-color="#640A15"/>
+      <stop offset="0.55" stop-color="#3A0208"/>
+      <stop offset="1" stop-color="#210100"/>
+    </radialGradient>
+    <linearGradient id="goldline" x1="0" x2="1">
+      <stop offset="0" stop-color="#E6A341" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FECE79"/>
+      <stop offset="1" stop-color="#E6A341" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" x2="1">
+      <stop offset="0" stop-color="#FECE79" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FECE79" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#FECE79" stop-opacity="0"/>
+    </linearGradient>
+    <path id="petal" d="M0 0 C7 -10 19 -8 17 4 C13 15 3 13 0 0 Z"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="300" fill="url(#bg)"/>
+
+  <!-- Light sweep -->
+  <rect x="-200" y="0" width="200" height="300" fill="url(#sweep)">
+    <animate attributeName="x" from="-200" to="1100" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Gold frame -->
+  <rect x="14" y="14" width="972" height="272" fill="none" stroke="#E6A341" stroke-opacity="0.55" stroke-width="1.2"/>
+  <rect x="22" y="22" width="956" height="256" fill="none" stroke="#E6A341" stroke-opacity="0.22" stroke-width="0.8"/>
+  <g fill="#E6A341" fill-opacity="0.8">
+    <rect x="10" y="10" width="8" height="8" transform="rotate(45 14 14)"/>
+    <rect x="982" y="10" width="8" height="8" transform="rotate(45 986 14)"/>
+    <rect x="10" y="282" width="8" height="8" transform="rotate(45 14 286)"/>
+    <rect x="982" y="282" width="8" height="8" transform="rotate(45 986 286)"/>
+  </g>
+
+  <!-- Data curve (draws itself) -->
+  <g opacity="0.6">
+    <path d="M700 235 L755 205 L810 218 L865 150 L920 165 L965 95" fill="none" stroke="#E6A341" stroke-width="1.6" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" dur="3.5s" begin="1s" fill="freeze"/>
+    </path>
+    <g fill="#FECE79">
+      <circle cx="700" cy="235" r="3"/><circle cx="755" cy="205" r="3"/><circle cx="810" cy="218" r="3"/>
+      <circle cx="865" cy="150" r="3"/><circle cx="920" cy="165" r="3"/><circle cx="965" cy="95" r="4"/>
+    </g>
+  </g>
+
+  <!-- Falling petals -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="90 -30" to="150 330" dur="11s" begin="-2s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+    <use href="#petal" fill="#B14A36" opacity="0.85"/></g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="350 -30" to="300 330" dur="13s" begin="-7s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="9s" repeatCount="indefinite"/>
+    <use href="#petal" fill="#8C0902" opacity="0.9" transform="scale(1.3)"/></g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="560 -30" to="640 330" dur="10s" begin="-4s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+    <use href="#petal" fill="#FECE79" opacity="0.35"/></g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="790 -30" to="740 330" dur="12s" begin="-9s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="8s" repeatCount="indefinite"/>
+    <use href="#petal" fill="#B14A36" opacity="0.8" transform="scale(1.2)"/></g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="920 -30" to="960 330" dur="14s" begin="-1s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+    <use href="#petal" fill="#8C0902" opacity="0.9"/></g>
+  </g>
+
+  <!-- Monogram -->
+  <circle cx="140" cy="150" r="64" fill="none" stroke="#E6A341" stroke-width="1.5"/>
+  <circle cx="140" cy="150" r="56" fill="none" stroke="#E6A341" stroke-width="0.6" stroke-opacity="0.6"/>
+  <text x="140" y="167" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="46" fill="#FECE79">RM</text>
+
+  <!-- Text -->
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <text x="250" y="132" font-size="54" fill="#FECE79" letter-spacing="1">Raihana Mohito
+      <animate attributeName="opacity" from="0" to="1" dur="2s" fill="freeze"/>
+    </text>
+    <rect x="252" y="146" width="360" height="1.5" fill="url(#goldline)">
+      <animate attributeName="opacity" from="0" to="1" dur="2.5s" fill="freeze"/>
+    </rect>
+    <text x="252" y="176" font-size="17" fill="#E6A341" letter-spacing="5">DATA · AI · FULL-STACK · DEVOPS
+      <animate attributeName="opacity" from="0" to="1" dur="3s" fill="freeze"/>
+    </text>
+    <text x="252" y="212" font-size="17" font-style="italic" fill="#FECE79" fill-opacity="0.85">I build systems. I analyze data. I design solutions.
+      <animate attributeName="opacity" from="0" to="0.85" dur="4s" fill="freeze"/>
+    </text>
+  </g>
+</svg>

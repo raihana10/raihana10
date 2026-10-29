@@ -1,74 +1,121 @@
-<h1 align="center">Welcome , I'm Raihana Mohito</h1>
-
-<h2 align="center">
-   Future Data Engineer | Data Enthusiast | Future Software Engineer
-</h2>
-
 <p align="center">
-I build systems. I analyze data. I design solutions.
+  <img src="https://raw.githubusercontent.com/raihana10/raihana10/main/assets/header.svg" alt="Raihana Mohito — Data, AI, Full-Stack, DevOps" width="100%"/>
 </p>
 
----
-
-# 👩‍💻 About Me
-
-
-
-Currently working on **ENSA Tetouan Academy** — a full-stack platform dedicated to empowering ENSA Tetouan students with hard and soft skills.
-
-
-
-## 🎯 Focus Areas
-- Data Engineering  
-- AI & Big Data  
-- Software Engineering  
-- Microservices & DevOps  
-
-
-
-## 🤝 Collaboration & Growth
-- Open to collaborate on **Data Engineering projects**
-- Seeking mentorship and growth in **Data Engineering & AI**
-- Eager to grow through real-world challenges
-
-
-
-## 🌍 Beyond Tech
-I'm deeply involved in community and charity initiatives — because impact matters.
-
-🏃‍♀️ I also enjoy sports, as they help me stay disciplined, focused, and energized.
-
-✨ Fun fact: Data isn't just a field for me… it's a passion. 
-
----
-<h2 align="center">Always learning. Always improving.</h2>
+<h3 align="center"><i>Data, with discipline and a touch of elegance.</i></h3>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihana-mohito-723599331) 
+## ✦ About me
 
----
+I'm a final-year computer engineering student at **ENSA Tétouan**, drawn to the moment when raw data stops being noise and starts making decisions.
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I love problems where a model has to be **trusted, not just accurate**: rare events, costly mistakes, predictions someone can act on. I'm at my best on the whole journey, from messy data to a deployed, monitored, documented solution.
 
----
+Outside the code, I lead teams, organize charity projects, and train regularly. Sport taught me discipline; community work taught me that **impact matters more than applause**.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raihana10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raihana10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raihana10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ✦ Selected work
 
----
+- **AURORAS**: predicts geomagnetic storms 6 hours ahead. A team project built on 43,207 hours of real NASA data, 12 model/rebalancing combinations compared, and a decision threshold tuned to the cost of a missed storm: **98.7% of storms detected** (PR-AUC 0.77). Served through FastAPI and Streamlit, containerized with Docker Compose.
+- **Rawabet**: an AI-powered real estate CRM. LLMs for lead scoring and contract risk analysis, a RAG pipeline on PostgreSQL/pgvector, and 7 n8n automation workflows.
+- **[SGITU](https://github.com/raihana10/SGITU-Microservices-Abonnements)**: urban transport platform built as 10 microservices (Spring Boot, Kafka, JWT), monitored with Prometheus & Grafana and shipped through a GitHub Actions CI/CD pipeline.
+- **ChriOnline**: a secure client-server e-commerce app in Java: TLS 1.3, JWT, 2FA, AES-256-GCM encryption, replay and brute-force protection.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✦ Toolbox
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=raihana10&limit=5&theme=radical&combine_all_yearly_contributions=true)
+**Data, AI & Automation**
 
----
-[![](https://visitcount.itsvg.in/api?id=raihana10&icon=0&color=11)](https://visitcount.itsvg.in)
+![Python](https://img.shields.io/badge/Python-210100?style=flat-square&logo=python&logoColor=FECE79)
+![Pandas](https://img.shields.io/badge/Pandas-210100?style=flat-square&logo=pandas&logoColor=FECE79)
+![NumPy](https://img.shields.io/badge/NumPy-210100?style=flat-square&logo=numpy&logoColor=FECE79)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-210100?style=flat-square&logo=scikitlearn&logoColor=FECE79)
+![PyTorch](https://img.shields.io/badge/PyTorch-210100?style=flat-square&logo=pytorch&logoColor=FECE79)
+![FastAPI](https://img.shields.io/badge/FastAPI-210100?style=flat-square&logo=fastapi&logoColor=FECE79)
+![Streamlit](https://img.shields.io/badge/Streamlit-210100?style=flat-square&logo=streamlit&logoColor=FECE79)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-210100?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-210100?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-210100?style=flat-square&logo=anthropic&logoColor=FECE79)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-210100?style=flat-square&logo=nvidia&logoColor=FECE79)
+![Spring AI](https://img.shields.io/badge/Spring_AI-210100?style=flat-square&logo=spring&logoColor=FECE79)
+![RAG](https://img.shields.io/badge/RAG-210100?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-210100?style=flat-square&logo=n8n&logoColor=FECE79)
+![Webhooks](https://img.shields.io/badge/Webhooks-210100?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-210100?style=flat-square&logo=powerbi&logoColor=FECE79)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Development**
+
+![Java](https://img.shields.io/badge/Java-210100?style=flat-square&logo=openjdk&logoColor=FECE79)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-210100?style=flat-square&logo=springboot&logoColor=FECE79)
+![Microservices](https://img.shields.io/badge/Microservices-210100?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-210100?style=flat-square&logo=apachekafka&logoColor=FECE79)
+![TypeScript](https://img.shields.io/badge/TypeScript-210100?style=flat-square&logo=typescript&logoColor=FECE79)
+![JavaScript](https://img.shields.io/badge/JavaScript-210100?style=flat-square&logo=javascript&logoColor=FECE79)
+![React](https://img.shields.io/badge/React-210100?style=flat-square&logo=react&logoColor=FECE79)
+![Node.js](https://img.shields.io/badge/Node.js-210100?style=flat-square&logo=nodedotjs&logoColor=FECE79)
+![Express](https://img.shields.io/badge/Express-210100?style=flat-square&logo=express&logoColor=FECE79)
+![C#](https://img.shields.io/badge/C%23-210100?style=flat-square&logo=dotnet&logoColor=FECE79)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-210100?style=flat-square&logo=dotnet&logoColor=FECE79)
+![PHP](https://img.shields.io/badge/PHP-210100?style=flat-square&logo=php&logoColor=FECE79)
+![Laravel](https://img.shields.io/badge/Laravel-210100?style=flat-square&logo=laravel&logoColor=FECE79)
+![Flutter](https://img.shields.io/badge/Flutter-210100?style=flat-square&logo=flutter&logoColor=FECE79)
+![Dart](https://img.shields.io/badge/Dart-210100?style=flat-square&logo=dart&logoColor=FECE79)
+![HTML](https://img.shields.io/badge/HTML-210100?style=flat-square&logo=html5&logoColor=FECE79)
+![CSS](https://img.shields.io/badge/CSS-210100?style=flat-square&logo=css&logoColor=FECE79)
+![C](https://img.shields.io/badge/C-210100?style=flat-square&logo=c&logoColor=FECE79)
+![REST APIs](https://img.shields.io/badge/REST_APIs-210100?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-210100?style=flat-square)
+
+**Security**
+
+![TLS 1.3](https://img.shields.io/badge/TLS_1.3-210100?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-210100?style=flat-square&logo=jsonwebtokens&logoColor=FECE79)
+![2FA](https://img.shields.io/badge/2FA-210100?style=flat-square)
+![BCrypt](https://img.shields.io/badge/BCrypt-210100?style=flat-square)
+![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-210100?style=flat-square)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-210100?style=flat-square&logo=postgresql&logoColor=FECE79)
+![PostGIS](https://img.shields.io/badge/PostGIS-210100?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-210100?style=flat-square&logo=mysql&logoColor=FECE79)
+![SQL Server](https://img.shields.io/badge/SQL_Server-210100?style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle-210100?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-210100?style=flat-square&logo=mongodb&logoColor=FECE79)
+![SQLite](https://img.shields.io/badge/SQLite-210100?style=flat-square&logo=sqlite&logoColor=FECE79)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-210100?style=flat-square&logo=git&logoColor=FECE79)
+![GitHub](https://img.shields.io/badge/GitHub-210100?style=flat-square&logo=github&logoColor=FECE79)
+![Docker](https://img.shields.io/badge/Docker-210100?style=flat-square&logo=docker&logoColor=FECE79)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-210100?style=flat-square&logo=githubactions&logoColor=FECE79)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-210100?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-210100?style=flat-square&logo=prometheus&logoColor=FECE79)
+![Grafana](https://img.shields.io/badge/Grafana-210100?style=flat-square&logo=grafana&logoColor=FECE79)
+![Linux](https://img.shields.io/badge/Linux-210100?style=flat-square&logo=linux&logoColor=FECE79)
+![Jira](https://img.shields.io/badge/Jira-210100?style=flat-square&logo=jira&logoColor=FECE79)
+![Slack](https://img.shields.io/badge/Slack-210100?style=flat-square)
+![Scrum / Kanban](https://img.shields.io/badge/Scrum_%2F_Kanban-210100?style=flat-square)
+![UML](https://img.shields.io/badge/UML-210100?style=flat-square)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-210100?style=flat-square)
+
+## ✦ Beyond the code
+
+- 🩸 Led the **11th annual blood donation campaign** at ENSA Tétouan: 100+ volunteers, 170+ donations in two days.
+- 🤝 Member of the steering committee of the **8th ENSA Tétouan Companies Forum**.
+- 🏃‍♀️ Sport keeps me disciplined, focused and energized.
+
+## ✦ Now
+
+- Looking for a **6-month end-of-studies internship (PFE)** in Data & AI.
+- Exploring new concepts and constantly sharpening my data skills, one project at a time.
+
+## ✦ Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raihana_Mohito-8C0902?style=flat-square&logo=linkedin&logoColor=FECE79)](https://www.linkedin.com/in/raihana-mohito-723599331)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raihana10&show_icons=true&hide_border=false&count_private=false&bg_color=270205&title_color=E6A341&text_color=FECE79&icon_color=B14A36&border_color=8C0902" alt="GitHub stats"/>
+</p>
+
+<h4 align="center"><i>Always learning. Always improving.</i></h4>
